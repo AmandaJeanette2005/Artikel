@@ -1,5 +1,9 @@
+
 body{
     font: 16px/28px arial, sans-serif;
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
 }
 .content h2{
     font-style: sans-serif;
@@ -51,6 +55,7 @@ body{
 .footer {
     background-color: #272727;
     color: white;
+    width: 100%;
 
 }
 .footer{
@@ -86,22 +91,14 @@ body{
     width: 60%;
 }
 .footer2-title{
-    width: 50%;
+    width: 40%;
 }
-.footer2 .social-media a {
-    display: inline-block;
-    height: 40px;
-    width: 40px;
-    margin: 0 10px 10px 0;
-    text-align: center;
-    line-height: 40px;
-    color: #ffffff;
-    transition: all 0.5s ease;
+.footer2-col3{
+    width: 20%;
 }
-
 .footer3{
     text-align: center;
-    padding-bottom: 3px;
+    padding-top: 50px;
 }
 
 .social-media img{
